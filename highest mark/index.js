@@ -50,4 +50,3 @@ for (var i = 0; i < 5; i++) {
 
 // We can also solve this question by using functions
 
-// We have just edited it
